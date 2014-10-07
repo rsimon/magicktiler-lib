@@ -4,10 +4,10 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.util.Arrays;
 
 import org.apache.log4j.Logger;
 
-import scala.actors.threadpool.Arrays;
 import at.ait.dme.magicktiler.TilesetInfo;
 import at.ait.dme.magicktiler.ValidationFailedException;
 import at.ait.dme.magicktiler.Validator;
